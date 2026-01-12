@@ -60,8 +60,8 @@
 
 #Fitur Utama Aplikasi
 
-#✅ Tambah data mahasiswa dengan validasi otomatis
-#✅ Tampilkan semua data dalam format tabel
-#✅ Cari mahasiswa berdasarkan NIM
-#✅ Hapus data mahasiswa
-#✅ Pesan error yang informatif
+# ✅ Tambah data mahasiswa dengan validasi otomatis
+# ✅ Tampilkan semua data dalam format tabel
+# ✅ Cari mahasiswa berdasarkan NIM
+# ✅ Hapus data mahasiswa
+# ✅ Pesan error yang informatif
